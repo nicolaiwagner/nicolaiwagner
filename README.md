@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Junior Web Developer from Aarhus | JavaScript/TypeScript | React/Next/Svelte | Open‑source lover
+  Junior Webdeveloper from Aarhus | JavaScript/TypeScript | React/Next/Svelte | Open‑source lover
 </p>
 
 ---
