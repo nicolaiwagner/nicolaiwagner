@@ -1,13 +1,11 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello%20World!&animation=fadeIn&type=waving&color=gradient&height=160" />
+  <img src="https://capsule-render.vercel.app/api?text=Nicolai%20Wagner!&animation=fadeIn&type=waving&color=gradient&height=160" />
 </p>
 
-<h1 align="center">Hi, I'm Nicolai 👋</h1>
-
 <p align="center">
-  Junior Web Developer in Copenhagen 📍 | JavaScript/TypeScript | React/Next.js | Open‑source lover
+  Junior Web Developer from Aarhus | JavaScript/TypeScript | React/Next/svelte | Open‑source lover
 </p>
 
 ---
@@ -16,18 +14,17 @@
 
 ```yaml
 - Name: Nicolai Wagner
-- Location: Copenhagen, Denmark
-- Pronouns: he/him
-- Currently: Building and scaling SaaS / web apps with React & TypeScript
+- Location: Aarhus C, Denmark
+- Currently: Building  web apps with React & TypeScript
 - Learning: Advanced backend patterns, more Kotlin, and clean architecture
-- Interests: Web dev, cycling, open‑source, and writing clean, maintainable code
+- Interests: Web dev, calisthenics, open‑source, and writing clean, maintainable code
 ```
 
 ---
 
 ### 🚀 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
