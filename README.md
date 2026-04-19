@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Junior Web Developer from Aarhus | JavaScript/TypeScript | React/Next/svelte | Open‑source lover
+  Junior Web Developer from Aarhus | JavaScript/TypeScript | React/Next/Svelte | Open‑source lover
 </p>
 
 ---
@@ -15,16 +15,15 @@
 ```yaml
 - Name: Nicolai Wagner
 - Location: Aarhus C, Denmark
-- Currently: Building  web apps with React & TypeScript
-- Learning: Advanced backend patterns, more Kotlin, and clean architecture
-- Interests: Web dev, calisthenics, open‑source, and writing clean, maintainable code
+- Currently: Building  web apps with TypeScript
+
 ```
 
 ---
 
 ### 🚀 Tech Stack
 
-<p align="center">
+<p justify="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
