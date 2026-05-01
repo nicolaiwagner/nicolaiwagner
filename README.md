@@ -16,4 +16,4 @@ interests:
 
 ## Tech
 
-JavaScript · TypeScript · React · Next.js · Svelte · Tailwind
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,svelte,css,git&theme=light)](https://skillicons.dev)
