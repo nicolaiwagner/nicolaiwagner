@@ -1,25 +1,19 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Nicolai%20Wagner!&animation=fadeIn&type=waving&color=gradient&height=160" />
-</p>
+# Nicolai Wagner
 
-<p align="center">
-  Junior Webdeveloper from Aarhus | JavaScript/TypeScript | React/Next/Svelte | Open‑source lover
-</p>
-
----
-
-### About Me
+Junior Web Developer from Aarhus, Denmark.
 
 ```yaml
-- Name: Nicolai Wagner
-- Age: 27
-- Location: Aarhus C, Denmark
-- Currently: Building  web apps with TypeScript 
-
+name: Nicolai Wagner
+age: 27
+location: Aarhus C, Denmark
+role: Junior Web Developer
+currently: Building web apps with TypeScript
+interests:
+  - Open source
+  - Frontend development
+  - Clean and maintainable code
 ```
 
----
+## Tech
 
-
-
-
+JavaScript · TypeScript · React · Next.js · Svelte · Tailwind
