@@ -4,7 +4,7 @@
 
 ```yaml
 name: Nicolai Wagner
-age: 27
+age: 28
 location: Aarhus C, Denmark
 role: Junior Web Developer
 currently: Building web apps with TypeScript
