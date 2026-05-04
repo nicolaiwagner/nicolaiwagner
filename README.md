@@ -1,6 +1,6 @@
 # Nicolai Wagner
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3500&pause=1000&color=24292F&width=500&lines=Junior+Web+Developer;TypeScript+%7C+React+%7C+Next.js+%7C+Svelte;Building+clean+and+useful+web+apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3500&pause=1000&color=FF8C00&width=500&lines=Junior+Web+Developer;TypeScript+%7C+React+%7C+Next.js+%7C+Svelte;Building+clean+and+useful+web+apps)](https://git.io/typing-svg)
 
 ```yaml
 name: Nicolai Wagner
